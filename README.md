@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyWebsiteInVue
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# Sofiahjerpe-deploying-vite
+>>>>>>> 48938f8cf87dc4bc020c64cf4f243053b163370e
